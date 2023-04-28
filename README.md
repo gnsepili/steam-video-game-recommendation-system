@@ -12,7 +12,7 @@
 
 - [ ] : Server
     - [X] : FastAPI setup
-    - [ ] : Router
-    - [ ] : Type Validator
-    - [ ] : Custom Error Handler 
+    - [X] : Router
+    - [X] : Type Validator
+    - [X] : Custom Error Handler 
     - [ ] : *DB setup
